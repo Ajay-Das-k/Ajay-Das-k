@@ -10,7 +10,7 @@
 
 - 🤝 Open to collaboration in both the tech and artistic realms
 
-- 👨‍💻 Check out my coding adventures on [@aju-0](https://github.com/aju-0)
+- 👨‍💻 Check out my coding adventures on [@Ajay-Das-k](https://github.com/Ajay-Das-k)
 
 - 💬 Let's chat about **MERN Stack Challenges and Creative Design Strategies** 🎨 😆**
 
@@ -230,8 +230,8 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=aju-0&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aju-0)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=aju-0&theme=material-palenight)](https://github.com/aju-0)
+[![](https://github-readme-stats.vercel.app/api?username=Ajay-Das-k&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Ajay-Das-k)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Das-k&theme=material-palenight)](https://github.com/Ajay-Das-k)
 </div>
 
 ----
@@ -242,7 +242,7 @@
 </p>
 
 ------
-Credit: [Ajay Das K](https://github.com/aju-0)
+Credit: [Ajay Das K](https://github.com/Ajay-Das-k)
 
 Last Edited on: 09/12/2023
 
